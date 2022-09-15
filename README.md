@@ -6,8 +6,13 @@ To [download](https://github.com/BlackMesa123/proprietary_vendor_samsung_m52xq/r
 <img src="readme-res/omc-info.jpg" width="40%"/>
 
 | OMC | CSC |
-| ------------- | ------------- |
+| --- | --- |
 | ODM | INS |
+| OJM | EGY |
+| OLE | XID |
+| OLM | XXV |
+| OWO | ZTO |
+| OXE | CAU |
 | OXM | BTU |
 | SER | SER |
 

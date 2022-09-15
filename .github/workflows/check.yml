@@ -17,6 +17,21 @@ jobs:
           # ODM OMC (M52XQ_SWA_INS)
           - model: "SM-M526B"
             region: "INS"
+          # OJM OMC
+          - model: "SM-M526BR"
+            region: "EGY"
+          # OLE OMC
+          - model: "SM-M526BR"
+            region: "XID"
+          # OLM OMC
+          - model: "SM-M526BR"
+            region: "XXV"
+          # OWO OMC
+          - model: "SM-M526B"
+            region: "ZTO"
+          # OXE OMC
+          - model: "SM-M526B"
+            region: "CAU"
           # OXM OMC (M52XQ_EUR_OPEN)
           - model: "SM-M526BR"
             region: "BTU"
